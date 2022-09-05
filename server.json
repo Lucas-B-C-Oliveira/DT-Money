@@ -12,17 +12,17 @@
       "id": 2,
       "description": "Hamburger",
       "type": "outcome",
-      "category": "Alimentacao",
+      "category": "Alimentação",
       "price": 25,
       "createdAt": "2022-09-01T20:19:53.295Z"
     },
     {
       "id": 3,
-      "description": "Pizza",
+      "description": "Ignite Rocketseat",
       "type": "outcome",
-      "category": "Alimentacao",
-      "price": 80,
-      "createdAt": "2022-09-01T20:19:53.295Z"
+      "category": "Investimento em Educação",
+      "price": 1980,
+      "createdAt": "2022-04-01T20:19:53.295Z"
     }
   ]
 }
