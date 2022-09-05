@@ -15,6 +15,14 @@
       "category": "Alimentacao",
       "price": 25,
       "createdAt": "2022-09-01T20:19:53.295Z"
+    },
+    {
+      "id": 3,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 80,
+      "createdAt": "2022-09-01T20:19:53.295Z"
     }
   ]
 }
